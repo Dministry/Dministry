@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dministry
 - 👀 I’m interested in creating great web app
-- 🌱 I’m currently learning web3
+- 🌱 I’m currently part of alx-SE C12
 - 💞️ I’m looking to collaborate on great projects
 - 📫 How to reach me dministry356@gmail.com
 
